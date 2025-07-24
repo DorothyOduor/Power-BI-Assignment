@@ -1,4 +1,4 @@
-# GROUP-ASSIGNMENT-2-SILA RONOH 25ZAD111181
+# GROUP-ASSIGNMENT2
 # Financial Risk Analytics Dashboard
 
 This project showcases a credit risk analytics pipeline integrating Power BI dashboards, R-based statistical modeling, and business intelligence insights for loan performance monitoring.This Power BI dashboard is designed to analyze a financial dataset simulating financial risk data. The main goal is to assess borrower creditworthiness, track loan performance, and identify default risks. It supports **risk-based lending**, **non-performing loan (NPL) minimization**, and **borrower segmentation**.
